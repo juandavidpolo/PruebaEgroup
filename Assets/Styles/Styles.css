@@ -1,0 +1,31 @@
+#map{
+    position:static;
+    width:100%;
+    height:300px;
+}
+.container{
+    padding: 50px;
+    margin: 50px;
+}
+footer{
+    margin: 0px;
+    padding: 50px;
+    max-width: 100vw;
+    background-color: #FFF1AD;
+}
+
+#mainProducts{
+    padding: 10px;
+}
+
+.bg-danger{
+    background-color: #b60000 !important;
+}
+
+.jumbotron{
+    background-color: #FFF1AD;
+    margin: 0px;
+}
+.card{
+    border: none;
+}
